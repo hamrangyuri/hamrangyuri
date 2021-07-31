@@ -2,7 +2,7 @@
 
 Hi 👋  
 
-My name is [Juraj](https://juhadev.com/) and I'm a 22-year-old front-end developer from Slovakia.  
+My name is [Juraj](https://juhadev.com/) and I'm a 23-year-old front-end developer from Slovakia.  
 - 🌱 I’m currently learning backend technologies NodeJS, ExpressJS and MongoDB
 - 👀 I’m open to front-end developer jobs  
 <br/>
